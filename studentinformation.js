@@ -1,0 +1,22 @@
+const Student_name = "Jyotishmoy kalita";
+var Age = 19;
+Age = 20;
+let course ="BCA";
+var marks = 99;
+marks = 100;
+let college_name = "SITM";
+const birth_year = 2007;
+let city = "guwahati";
+let semester = "1st semester";
+semester = "3rd semester";
+let Favourite_subject = "javascript";
+
+console.log("Student_name=", Student_name);
+console.log("Age=",Age);
+console.log("course=",course);
+console.log("marks=",marks);
+console.log("college_name=",college_name);
+console.log("birth_year=",birth_year);
+console.log("city=",city);
+console.log("semester=",semester);
+console.log("Favourite_subject=",Favourite_subject);
